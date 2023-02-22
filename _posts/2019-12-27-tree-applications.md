@@ -1,8 +1,9 @@
 ---
-title: '树的应用'
-tags:
-  - 数据结构与算法分析
-  - 树
+title: 树的应用
+# date: 2019-12-25 14:10:00 +0800
+categories: [数据结构与算法分析]
+tags: [树的应用]
+render_with_liquid: false
 ---
 
 ## 二叉排序树
