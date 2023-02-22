@@ -1,6 +1,10 @@
 ---
-title: "以QA形式解析Transformer和BERT"
+title: 以QA形式解析Transformer和BERT
+categories: [PLM]
+tags: [BERT, Transformer]
+render_with_liquid: false
 ---
+
 
 随着NLP的不断发展，对Transformer和BERT相关知识的研究应用，也越来越细节，下面尝试用QA的形式深入不浅出Transformer和BERT。
 
