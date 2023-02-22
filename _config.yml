@@ -21,9 +21,9 @@ timezone: Asia/Shanghai
 
 title: ZhenwenZhang                          # the main title
 
-tagline: Ph.D in Computer Science # it will display as the sub-title
+tagline: Ph.D in Computer Science  # it will display as the sub-title
 
-description: School of Information Science and Engineering, Lanzhou University   # used by seo meta and the atom feed
+description: >-  # used by seo meta and the atom feed
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''
