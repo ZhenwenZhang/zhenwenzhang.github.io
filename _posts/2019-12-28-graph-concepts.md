@@ -1,7 +1,7 @@
 ---
 title: 图的概念
-categories: [数据结构与算法分析]
-tags: [图]
+categories: [DataStructure]
+tags: [graph]
 render_with_liquid: false
 ---
 

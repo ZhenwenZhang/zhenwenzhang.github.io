@@ -1,8 +1,8 @@
 ---
-title: 线性表
+title: Linear Table
 date: 2019-12-25 14:10:00 +0800
-categories: [数据结构与算法分析]
-tags: [线性表]
+categories: [DataStructure]
+tags: [linear table]
 render_with_liquid: false
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: 图的遍历
-categories: [数据结构与算法分析]
-tags: [图遍历]
+title: Visit Graph
+categories: [DataStructure]
+tags: [graph]
 render_with_liquid: false
 ---
 

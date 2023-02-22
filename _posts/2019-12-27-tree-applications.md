@@ -1,7 +1,7 @@
 ---
 title: 树的应用
-categories: [数据结构与算法分析]
-tags: [树的应用]
+categories: [DataStructure]
+tags: [tree]
 render_with_liquid: false
 ---
 
