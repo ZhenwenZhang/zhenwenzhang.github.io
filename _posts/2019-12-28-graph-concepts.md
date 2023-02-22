@@ -1,5 +1,5 @@
 ---
-title: 图的概念
+title: Introduction Graph
 categories: [DataStructure]
 tags: [graph]
 render_with_liquid: false

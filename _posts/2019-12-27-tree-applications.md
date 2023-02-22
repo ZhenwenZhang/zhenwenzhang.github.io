@@ -1,5 +1,5 @@
 ---
-title: 树的应用
+title: Application of Tree
 categories: [DataStructure]
 tags: [tree]
 render_with_liquid: false

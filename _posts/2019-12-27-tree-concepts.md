@@ -1,5 +1,5 @@
 ---
-title: 树的基本概念
+title: Intruction Tree
 categories: [DataStructure]
 tags: [tree]
 render_with_liquid: false

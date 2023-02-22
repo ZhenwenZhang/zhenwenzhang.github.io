@@ -1,5 +1,5 @@
 ---
-title: 图的应用
+title: Application of Graph
 categories: [DataStructure]
 tags: [graph]
 render_with_liquid: false
