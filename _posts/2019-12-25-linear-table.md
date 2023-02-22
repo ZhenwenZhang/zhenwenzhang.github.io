@@ -1,8 +1,8 @@
 ---
 title: 线性表
 date: 2019-12-25 14:10:00 +0800
-categories: [Blogging, Tutorial]
-tags: [writing]
+categories: [数据结构与算法分析]
+tags: [线性表]
 render_with_liquid: false
 ---
 
