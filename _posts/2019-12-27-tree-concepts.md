@@ -1,8 +1,8 @@
 ---
-title: '树的基本概念'
-tags:
-  - 数据结构与算法分析
-  - 树
+title: 树的基本概念
+categories: [数据结构与算法分析]
+tags: [树]
+render_with_liquid: false
 ---
 
 ## 树基本概念

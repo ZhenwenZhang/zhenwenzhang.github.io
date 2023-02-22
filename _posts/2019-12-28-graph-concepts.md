@@ -1,9 +1,10 @@
 ---
-title: '图的概念'
-tags:
-  - 数据结构与算法分析
-  - 图
+title: 图的概念
+categories: [数据结构与算法分析]
+tags: [图]
+render_with_liquid: false
 ---
+
 
 ## 图的基本概念
 * 有向图

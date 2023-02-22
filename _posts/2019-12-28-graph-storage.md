@@ -1,9 +1,10 @@
 ---
-title: '图的存储结构'
-tags: 
-  - 数据结构与算法分析
-  - 图
+title: 图的存储结构
+categories: [数据结构与算法分析]
+tags: [图]
+render_with_liquid: false
 ---
+
 
 ## 邻接矩阵
 * 概念

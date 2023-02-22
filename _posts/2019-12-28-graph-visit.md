@@ -1,11 +1,10 @@
 ---
-title: '图的遍历'
-category: sjjg
-permalink: /articles/graph-visit/
-tags:
-  - 数据结构与算法分析
-  - 图
+title: 图的遍历
+categories: [数据结构与算法分析]
+tags: [图]
+render_with_liquid: false
 ---
+
 
 > 图的遍历是指从图中某一顶点出发，按照某种搜索方法沿着图中的边对着图中的所有顶点访问一次且仅访问一次。
 
