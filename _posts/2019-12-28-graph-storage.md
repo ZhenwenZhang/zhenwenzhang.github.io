@@ -1,7 +1,7 @@
 ---
 title: 图的存储结构
 categories: [数据结构与算法分析]
-tags: [图]
+tags: [图存储]
 render_with_liquid: false
 ---
 
