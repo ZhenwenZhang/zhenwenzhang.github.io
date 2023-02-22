@@ -1,5 +1,5 @@
 ---
-title: 树的存储与遍历
+title: Store and Visit of Tree
 categories: [DataStructure]
 tags: [tree]
 render_with_liquid: false

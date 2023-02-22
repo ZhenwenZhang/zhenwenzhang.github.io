@@ -1,5 +1,5 @@
 ---
-title: Introduction Graph
+title: Introduction of Graph
 categories: [DataStructure]
 tags: [graph]
 render_with_liquid: false

@@ -1,5 +1,5 @@
 ---
-title: 图的存储结构
+title: Store of Graph
 categories: [DataStructure]
 tags: [graph]
 render_with_liquid: false

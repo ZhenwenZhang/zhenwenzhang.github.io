@@ -1,5 +1,5 @@
 ---
-title: Intruction Tree
+title: Intruction of Tree
 categories: [DataStructure]
 tags: [tree]
 render_with_liquid: false
