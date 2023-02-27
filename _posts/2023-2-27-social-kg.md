@@ -1,7 +1,7 @@
 ---
 title: Social Knowledge Graph
 date: 2019-12-25 14:10:00 +0800
-categories: [KnowledgeGraph]
+categories: [Knowledge Graph]
 tags: [knowledge graph, nlp]
 render_with_liquid: false
 ---
